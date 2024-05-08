@@ -2,6 +2,10 @@
 
 This repo covers examples of using a MultiCall smart contract. Giving he ability to call multiple contracts in a single call or bulk transactions in a single call.  Saving on RPC requests and combining transactions.
 
+### Video Companion
+[Walkthrough](https://www.youtube.com/watch?v=gn9M155d7rU)
+
+
 ### Files:
 
 `MultiCall.sol` - This contract is a fork of MultiCall3, it's backwards compatible with MultiCall and MultiCall2 which lets you execute multiple transactions in a single call
